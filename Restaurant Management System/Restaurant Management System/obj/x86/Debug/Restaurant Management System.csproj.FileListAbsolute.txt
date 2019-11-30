@@ -1,0 +1,27 @@
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form2.resources
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.exe
+c:\users\hp\documents\visual studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form3.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form4.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form5.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.csprojAssemblyReference.cache
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form1.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form2.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form3.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form4.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Form5.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.exe
+C:\Users\syeda\Dropbox\OOP Lab BSE 2A\Students Code\(02-131172-029) Ammar Shah\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.pdb
+B:\Semester 2\Project\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.exe
+B:\Semester 2\Project\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\x86\Debug\Restaurant Management System.pdb
